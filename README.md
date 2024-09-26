@@ -76,4 +76,4 @@ It will look a bit cluttered to start. We will learn new features of Javascript 
 | **User Experience (10 pts)**               | 9-10                               | 7-8                                    | 5-6                                 | 0-4                          |
 
 ---
-© All rights reserved to ThriveDX
+© All rights reserved to ThriveDX# aisd-jse-on-the-job-1
