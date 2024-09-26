@@ -39,11 +39,7 @@ Use AI tools such as ChatGPT and Claude to help you learn. As you integrate AI t
 
 ### Getting Started 📄
 
-You will now take your existing web page that you have previously created and transform it using CSS Bootstrap. The goal is to enhance the design, responsiveness, and overall user experience by applying Bootstrap’s grid system, components, and utilities. You will start by analyzing the current structure of your web page, then systematically integrate Bootstrap classes to achieve a modern, professional look.
-
-This activity will challenge you to think critically about layout, component selection, and responsiveness as you apply Bootstrap’s features to your design. By the end of this exercise, you will have a refined web page that not only looks better but also adapts seamlessly to different screen sizes, providing a consistent user experience across devices.
-
-You have many options here. AI can take your existing code and apply Bootstrap to it but check to ensure that the outcome is what you want. You may have to followup to fix certain issues that may arise. If you go this route then be sure to only have AI convert small sections at a time (navbar, main content, etc) rather than the whole thing at once. Another option is to look at your existing code and have the AI generate something similar and then you apply your desired changes.
+In this activity, you will take your first steps in JavaScript by setting up a basic project for your chosen eCommerce store. This exercise will help you get familiar with the process of creating and running JavaScript code, as well as defining variables that represent key elements of your store. The focus is on understanding the essentials: declaring variables, working with different data types, and setting up a foundation for your JavaScript journey.
 
 #### Deliverables ✅
 
