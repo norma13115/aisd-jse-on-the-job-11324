@@ -23,7 +23,6 @@ You have taken on a client who is a small but growing business. Your task is to 
 2. **CSS Styling**: Enhance your site using various CSS techniques.
 3. **Advanced Design**: Utilize CSS frameworks to create a polished, responsive design.
 
-Review the included example which represents the kind of site you'll have created by the time you finish all 4 on the job projects." Adjust to your preference.
 
 ## Resources 📦
 
@@ -43,9 +42,9 @@ Use AI tools such as ChatGPT and Claude to help you learn. As you integrate AI t
 
 ## Getting Started 📄
 
-In this activity, you will take your first steps in JavaScript by setting up a basic project for your chosen eCommerce store. This exercise will help you get familiar with the process of creating and running JavaScript code, as well as defining variables that represent key elements of your store. The focus is on understanding the essentials: declaring variables, working with different data types, and setting up a foundation for your JavaScript journey.
+In this activity, you will take your first steps in building a foundational project for your eCommerce store. This exercise will introduce you to the basics of creating and running JavaScript code, while also teaching you how to define variables that represent important elements of your store. The focus is on mastering the essentials: declaring variables, using different data types, and laying the groundwork for your JavaScript learning journey.
 
-You will create a simple eCommerce store concept using basic JavaScript. You'll define variables for the store name, store type, various products, their prices, and store hours, then display them using console.log.
+You'll start by creating a simple eCommerce store concept using basic JavaScript. This will involve defining variables for the store's name, type, a selection of products, their prices, and store hours, then displaying this information using console.log.
 
 
 ## Expected Project Structure 🏗️
@@ -68,7 +67,7 @@ PawsClawsPetStore/
 ## 2. **Test your environment**
 In this step, we will ensure that your Node.js environment is correctly set up and able to execute JavaScript files.
 
-  - [ ] Write this initial code in the index.js file.
+  - [ ] Add the following initial code to the index.js file.
 
 ```javascript
 console.log('hello world');
@@ -83,7 +82,7 @@ If you see "hello world" in the terminal, the setup is successful.
 
   - [ ] Once confirmed, delete the console.log('hello world') line.
 
-  - [ ] Before continuing, determine what kind of eCommerce store you would like to build.
+  - [ ] Before continuing, make sure to determine what kind of eCommerce store you would like to build.
 
 
 ## 3. **Creating the eCommerce Store Variables**
@@ -103,6 +102,7 @@ You will define:
   - Make sure you name your variables appropriately.
   - Ensure you are using the appropriate data type for each variable. The name of your store and products should be strings, while prices should be numbers.
 
+### Let's Get Started
 
 - [ ] Create a variable called `storeName` and assign the appropriate value.
 
@@ -172,7 +172,7 @@ console.log(storeHours);
 node index.js
 ```
 
-Here’s the updated expected output section with your note:
+Here is the expected output, which may vary depending on the choices you made:
 
 
 ```bash
@@ -211,6 +211,8 @@ git push -u origin main
 
 # Conclusion 📄
 In this assigment, you successfully built the foundation of an eCommerce store by utilizing basic JavaScript concepts like variables, data types, and console.log for output. This gives you a fundamental understanding of how to represent and work with data in a JavaScript environment. Keep building on this to add more functionality and complexity as you advance.
+
+---
 
 ### Solution codebase 👀
 🛑 **Only use this as a reference** 🛑
