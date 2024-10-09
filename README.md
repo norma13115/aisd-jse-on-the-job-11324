@@ -37,13 +37,57 @@ Use AI tools such as ChatGPT and Claude to help you learn. As you integrate AI t
 
 ## Checkpoint 1 ✋
 
-### Getting Started 📄
+## Getting Started 📄
 
 In this activity, you will take your first steps in JavaScript by setting up a basic project for your chosen eCommerce store. This exercise will help you get familiar with the process of creating and running JavaScript code, as well as defining variables that represent key elements of your store. The focus is on understanding the essentials: declaring variables, working with different data types, and setting up a foundation for your JavaScript journey.
 
-#### Deliverables ✅
+You will create a simple eCommerce store concept using basic JavaScript. You'll define variables for the store name, store type, various products, their prices, and store hours, then display them using console.log.
 
-- [ ] Create a new repository. `cd` into it and create an `index.js` file.
+## Expected Project Structure 🏗️
+```plaintext
+PawsClawsPetStore/
+│
+├── index.js
+├── README.md
+```
+
+## Deliverables ✅
+
+## 1. **Create the Project Folder and Files**
+  - [ ] Create a folder named `PawsClawsPetStore` to store all your project files.
+  
+  - [ ] Now `cd` into that new folder you created.
+   
+  - [ ] Inside the `PawsClawsPetStore` folder, create a file named `index.js`. This will be your main JavaScript file.
+   
+## 2. **Test your environment**
+
+  - [ ] Write this initial code in the index.js file.
+
+```javascript
+console.log('hello world');
+
+```
+
+  - [ ] Run the code to verify it.
+
+```bash
+node index.js
+
+```
+
+If you see "hello world" in the terminal, the setup is successful.
+
+```
+
+  - [ ] Once confirmed, delete the console.log('hello world') line.
+
+
+
+
+
+
+
 - [ ] `console.log('hello world')` and run `node index.js`. Ensure you see the output `hello world`. Once you know that is worked you can delete that line.
 - [ ] Determine what kind of eCommerce store you would like to build.
 - [ ] Create a variable called `storeName` and assign the appropriate value.
