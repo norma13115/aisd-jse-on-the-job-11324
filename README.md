@@ -186,8 +186,6 @@ Monday - Friday: 9 AM - 6 PM, Saturday: 10 AM - 4 PM, Sunday: Closed
 
 ```
 
-*Note: The output may look different based on the store type and variables you chose to use.*
-
 
 ## 5. **Pushing Your Code to GitHub**
 In this section, you will save your project to a GitHub repository, which allows you to store your code online, collaborate with others, and keep track of changes over time.
@@ -208,6 +206,7 @@ git remote add origin [your-repo-url]
 git push -u origin main
 
 ```
+## 
 
 # Conclusion 📄
 In this assigment, you successfully built the foundation of an eCommerce store by utilizing basic JavaScript concepts like variables, data types, and console.log for output. This gives you a fundamental understanding of how to represent and work with data in a JavaScript environment. Keep building on this to add more functionality and complexity as you advance.
