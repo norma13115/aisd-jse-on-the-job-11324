@@ -106,7 +106,7 @@ You will define:
 
 - [ ] Create a variable called `storeName` and assign the appropriate value.
 
-* (This is just an example below; be creative and come up with your own store name)
+*(This is just an example below; be creative and come up with your own store name)
 
 ```javascript
 const storeName = "Paws & Claws";
@@ -114,7 +114,7 @@ const storeName = "Paws & Claws";
 
 - [ ] Create a variable to represent the type of eCommerce store: bakery, pet store, etc.
 
-* (Again, this is just an example below for reference)
+*(Again, this is just an example below for reference)
 
 ```javascript
 const storeType = "Pet Store";
@@ -122,7 +122,7 @@ const storeType = "Pet Store";
 
 - [ ] Create 5-6 variables to represent various products related to your chosen store. Avoid using arrays or objects for now.
 
-* (Example for reference) 
+*(Example for reference) 
 ```javascript
 const product1 = "Dog Food";
 const product2 = "Cat Litter";
@@ -133,7 +133,7 @@ const product5 = "Hamster Cage";
 
 - [ ] Create variables to represent the price of each of those products.
 
-* (Example for reference) 
+*(Example for reference) 
 ```javascript
 const price1 = 29.99;
 const price2 = 15.49;
@@ -144,7 +144,7 @@ const price5 = 34.50;
 
 - [ ] Create a variable to represent the hours of your store. Do some research to see which data type works best for this.
 
-* (Example for reference) 
+*(Example for reference) 
 ```javascript
 const storeHours = "Monday - Friday: 9 AM - 6 PM, Saturday: 10 AM - 4 PM, Sunday: Closed";
 
@@ -186,7 +186,7 @@ Monday - Friday: 9 AM - 6 PM, Saturday: 10 AM - 4 PM, Sunday: Closed
 
 ```
 
-* Note: The output may look different based on the store type and variables you chose to use.*
+*Note: The output may look different based on the store type and variables you chose to use.*
 
 
 ## 5. **Pushing Your Code to GitHub**
