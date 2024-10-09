@@ -213,16 +213,6 @@ In this assigment, you successfully built the foundation of an eCommerce store b
 
 ---
 
-### Solution codebase 👀
-🛑 **Only use this as a reference** 🛑
-
-💾 **Not something to copy and paste** 💾
-
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-on-the-job-1/tree/solution) (link not shown).
-
-
-
-
 
 
 ## Grading Criteria 💯
@@ -233,6 +223,14 @@ In this assigment, you successfully built the foundation of an eCommerce store b
 | **Workflow Appropriacy (15 pts)**          | 14-15                              | 11-13                                  | 8-10                                | 0-7                          |
 | **Documentation (15 pts)**                 | 14-15                              | 11-13                                  | 8-10                                | 0-7                          |
 | **User Experience (10 pts)**               | 9-10                               | 7-8                                    | 5-6                                 | 0-4                          |
+
+## ### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-on-the-job-1/tree/solution) (link not shown).
+
 
 ---
 © All rights reserved to ThriveDX# aisd-jse-on-the-job-1
