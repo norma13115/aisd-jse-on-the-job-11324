@@ -33,7 +33,11 @@ Utilize documentation such as [W3 Schools](https://www.w3schools.com/) and [MDN]
 
 Use AI tools such as ChatGPT and Claude to help you learn. As you integrate AI tools into your learning process, it's essential to use them responsibly. AI can be a powerful resource to assist you, but it’s important to ensure that you truly understand and engage with the content it generates. This will not only enhance your learning experience but also help you develop critical thinking and problem-solving skills.
 
+
+
 ---
+
+
 
 ## Checkpoint 1 ✋
 
@@ -42,6 +46,7 @@ Use AI tools such as ChatGPT and Claude to help you learn. As you integrate AI t
 In this activity, you will take your first steps in JavaScript by setting up a basic project for your chosen eCommerce store. This exercise will help you get familiar with the process of creating and running JavaScript code, as well as defining variables that represent key elements of your store. The focus is on understanding the essentials: declaring variables, working with different data types, and setting up a foundation for your JavaScript journey.
 
 You will create a simple eCommerce store concept using basic JavaScript. You'll define variables for the store name, store type, various products, their prices, and store hours, then display them using console.log.
+
 
 ## Expected Project Structure 🏗️
 ```plaintext
@@ -81,7 +86,7 @@ If you see "hello world" in the terminal, the setup is successful.
   - [ ] Before continuing, determine what kind of eCommerce store you would like to build.
 
 
-## 2. **Creating the eCommerce Store Variables**
+## 3. **Creating the eCommerce Store Variables**
 In this step, you will define the key elements of your eCommerce store by using JavaScript variables. These variables will represent the basic structure of your store, such as the store name, type, available products, their prices, and business hours. By assigning values to these variables, you will create a clear representation of your store's inventory and operational details.
 
 This is an important step in understanding how to work with simple data types and variable - assignment in JavaScript. 
@@ -92,6 +97,12 @@ You will define:
   - Five to six products sold in your store.
   - The prices for each product.
   - The store’s business hours.
+
+  #### Tips
+
+  - Make sure you name your variables appropriately.
+  - Ensure you are using the appropriate data type for each variable. The name of your store and products should be strings, while prices should be numbers.
+
 
 - [ ] Create a variable called `storeName` and assign the appropriate value.
 
@@ -120,25 +131,98 @@ const product4 = "Fish Tank";
 const product5 = "Hamster Cage";
 ```
 
+- [ ] Create variables to represent the price of each of those products.
 
+(Example for reference) 
+```javascript
+const price1 = 29.99;
+const price2 = 15.49;
+const price3 = 12.99;
+const price4 = 89.99;
+const price5 = 34.50;
+```
 
-
-
-
-
-
-- [ ] Create variables to represent the price of each of those prices.
 - [ ] Create a variable to represent the hours of your store. Do some research to see which data type works best for this.
-- [ ] Commit and push up your work to github.
 
-It will look a bit cluttered to start. We will learn new features of Javascript to clean these up as we go forward.
+(Example for reference) 
+```javascript
+const storeHours = "Monday - Friday: 9 AM - 6 PM, Saturday: 10 AM - 4 PM, Sunday: Closed";
 
-#### Tips
+```
 
-- Make sure you name your variables appropriately.
-- Ensure you are using the appropriate data type for each variable. The name of your store and products should be strings, while prices should be numbers.
+## 4. **Testing Tour Work**
+In this section, you will verify that the variables and data you created for your eCommerce store are correctly set up and functioning as expected. By running your index.js file, you'll check that each variable—such as the store name, store type, products, prices, and store hours—is outputting the correct information to the console.
 
----
+- [ ] Add the following console.log statements to your index.js file to display all the variables in the console:
+
+(Example for reference) 
+```javascript
+console.log(storeName, storeType);
+console.log(product1, price1);
+console.log(product2, price2);
+console.log(product3, price3);
+console.log(product4, price4);
+console.log(product5, price5);
+console.log(storeHours);
+```
+
+  - [ ] Run the `index.js` file again to see the output of all your variables.
+
+```bash
+node index.js
+```
+
+Here’s the updated expected output section with your note:
+
+
+```bash
+Paws & Claws Pet Store
+Dog Food 29.99
+Cat Litter 15.49
+Bird Seed 12.99
+Fish Tank 89.99
+Hamster Cage 34.50
+Monday - Friday: 9 AM - 6 PM, Saturday: 10 AM - 4 PM, Sunday: Closed
+
+```
+
+*Note: The output may look different based on the store type and variables you chose to use.*
+
+
+## 5. **Pushing Your Code to GitHub**
+In this section, you will save your project to a GitHub repository, which allows you to store your code online, collaborate with others, and keep track of changes over time.
+
+- [ ]  Initialize Git, add all files, and commit your work:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit: Your commit message here"
+
+```
+
+- [ ]  Push your work to GitHub:
+
+```bash
+git remote add origin [your-repo-url]
+git push -u origin main
+
+```
+
+# Conclusion 📄
+In this assigment, you successfully built the foundation of an eCommerce store by utilizing basic JavaScript concepts like variables, data types, and console.log for output. This gives you a fundamental understanding of how to represent and work with data in a JavaScript environment. Keep building on this to add more functionality and complexity as you advance.
+
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-wde-4-the-box-model/tree/solution) (link not shown).
+
+
+
+
+
 
 ## Grading Criteria 💯
 
