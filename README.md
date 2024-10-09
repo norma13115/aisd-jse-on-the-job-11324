@@ -78,13 +78,26 @@ If you see "hello world" in the terminal, the setup is successful.
 
   - [ ] Once confirmed, delete the console.log('hello world') line.
 
+  - [ ] Before continuing, determine what kind of eCommerce store you would like to build.
+
+
+## 2. **Creating the eCommerce Store Variables**
+In this step, you will define the key elements of your eCommerce store by using JavaScript variables. These variables will represent the basic structure of your store, such as the store name, type, available products, their prices, and business hours. By assigning values to these variables, you will create a clear representation of your store's inventory and operational details.
+
+You will define:
+
+- The store name and type (e.g., bakery, pet store, etc.).
+- Five to six products sold in your store.
+- The prices for each product.
+- The store’s business hours.
+- This is an important step in understanding how to work with simple data types and variable - assignment in JavaScript. .
 
 
 
 
 
 
-- [ ] `console.log('hello world')` and run `node index.js`. Ensure you see the output `hello world`. Once you know that is worked you can delete that line.
+
 - [ ] Determine what kind of eCommerce store you would like to build.
 - [ ] Create a variable called `storeName` and assign the appropriate value.
 - [ ] Create a variable to represent the type of eCommerce store: bakery, pet store, etc.
