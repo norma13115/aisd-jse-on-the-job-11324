@@ -84,24 +84,49 @@ If you see "hello world" in the terminal, the setup is successful.
 ## 2. **Creating the eCommerce Store Variables**
 In this step, you will define the key elements of your eCommerce store by using JavaScript variables. These variables will represent the basic structure of your store, such as the store name, type, available products, their prices, and business hours. By assigning values to these variables, you will create a clear representation of your store's inventory and operational details.
 
+This is an important step in understanding how to work with simple data types and variable - assignment in JavaScript. 
+
 You will define:
 
-- The store name and type (e.g., bakery, pet store, etc.).
-- Five to six products sold in your store.
-- The prices for each product.
-- The store’s business hours.
-- This is an important step in understanding how to work with simple data types and variable - assignment in JavaScript. .
+  - The store name and type (e.g., bakery, pet store, etc.).
+  - Five to six products sold in your store.
+  - The prices for each product.
+  - The store’s business hours.
 
-
-
-
-
-
-
-- [ ] Determine what kind of eCommerce store you would like to build.
 - [ ] Create a variable called `storeName` and assign the appropriate value.
+
+(This is just an example below; be creative and come up with your own store name)
+
+```javascript
+const storeName = "Paws & Claws";
+```
+
 - [ ] Create a variable to represent the type of eCommerce store: bakery, pet store, etc.
+
+(Again, this is just an example below for reference)
+
+```javascript
+const storeType = "Pet Store";
+```
+
 - [ ] Create 5-6 variables to represent various products related to your chosen store. Avoid using arrays or objects for now.
+
+(Example for reference) 
+```javascript
+const product1 = "Dog Food";
+const product2 = "Cat Litter";
+const product3 = "Bird Seed";
+const product4 = "Fish Tank";
+const product5 = "Hamster Cage";
+```
+
+
+
+
+
+
+
+
 - [ ] Create variables to represent the price of each of those prices.
 - [ ] Create a variable to represent the hours of your store. Do some research to see which data type works best for this.
 - [ ] Commit and push up your work to github.
