@@ -61,24 +61,20 @@ PawsClawsPetStore/
   - [ ] Inside the `PawsClawsPetStore` folder, create a file named `index.js`. This will be your main JavaScript file.
    
 ## 2. **Test your environment**
+In this step, we will ensure that your Node.js environment is correctly set up and able to execute JavaScript files.
 
   - [ ] Write this initial code in the index.js file.
 
 ```javascript
 console.log('hello world');
-
 ```
-
   - [ ] Run the code to verify it.
 
 ```bash
 node index.js
-
 ```
 
 If you see "hello world" in the terminal, the setup is successful.
-
-```
 
   - [ ] Once confirmed, delete the console.log('hello world') line.
 
