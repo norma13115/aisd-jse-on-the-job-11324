@@ -1,4 +1,4 @@
-# Javascript Essentials On the Job
+# JavaScript Essentials On the Job
 
 ## Project Description 📄
 
@@ -8,7 +8,7 @@ Through this assignment, you'll complete tasks that introduce the essential buil
 
 ## Scenario 🌟
 
-You have taken on a client who is a small but growing business. Your task is to build the Javascript logic that powers everything behind the scenes for their products.
+You have taken on a client who is a small but growing business. Your task is to build the JavaScript logic that powers everything behind the scenes for their products.
 
 ### Choose Your Client:
 - Band
@@ -150,7 +150,7 @@ const storeHours = "Monday - Friday: 9 AM - 6 PM, Saturday: 10 AM - 4 PM, Sunday
 
 ```
 
-## 4. **Testing Tour Work**
+## 4. **Testing Your Work**
 In this section, you will verify that the variables and data you created for your eCommerce store are correctly set up and functioning as expected. By running your index.js file, you'll check that each variable—such as the store name, store type, products, prices, and store hours—is outputting the correct information to the console.
 
 - [ ] Add the following console.log statements to your index.js file to display all the variables in the console:
@@ -209,7 +209,7 @@ git push -u origin main
 ## 
 
 # Conclusion 📄
-In this assigment, you successfully built the foundation of an eCommerce store by utilizing basic JavaScript concepts like variables, data types, and console.log for output. This gives you a fundamental understanding of how to represent and work with data in a JavaScript environment. Keep building on this to add more functionality and complexity as you advance.
+In this assignment, you successfully built the foundation of an eCommerce store by utilizing basic JavaScript concepts like variables, data types, and console.log for output. This gives you a fundamental understanding of how to represent and work with data in a JavaScript environment. Keep building on this to add more functionality and complexity as you advance.
 
 ---
 
