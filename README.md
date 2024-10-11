@@ -48,6 +48,8 @@ You'll start by creating a simple eCommerce store concept using basic JavaScript
 
 
 ## Expected Project Structure 🏗️
+Your folder name may vary based on your selection of the eCommerce store type.
+
 ```plaintext
 PawsClawsPetStore/
 │
